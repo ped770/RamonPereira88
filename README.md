@@ -1,4 +1,4 @@
-## Hi, I am Ramon Pereira - Frontend Developer!
+<h1> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, I am Ramon Pereira - Frontend Developer!</h1>
 <div style="display: inline_block">
   <a href="https://github.com/RamonPereira88">
   <img width="350em" height="150em" src="https://github-readme-stats.vercel.app/api?username=RamonPereira88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
