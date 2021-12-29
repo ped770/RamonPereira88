@@ -1,12 +1,12 @@
 ## Hi, I am Ramon Pereira - Frontend Developer!
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/RamonPereira88">
-  <img width="350em" height="230em" src="https://github-readme-stats.vercel.app/api?username=RamonPereira88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="350em" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonPereira88&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="350em" height="150em" src="https://github-readme-stats.vercel.app/api?username=RamonPereira88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="350em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonPereira88&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ## 🛠  Tech Stack
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Javascript-logo" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript-logo" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React-logo" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
