@@ -15,7 +15,6 @@
   <img align="center" alt="CSS-logo" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="Tailwind logo" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Styled-components-logo" height="35" width="35" src="https://www.styled-components.com/atom.png" />
-  <img align="center" alt="Styled-components-logo" height="35" width="35" src="https://lxspandora.gallerycdn.vsassets.io/extensions/lxspandora/vscode-styled-components-snippets/1.0.2/1506443337800/Microsoft.VisualStudio.Services.Icons.Default />
   <img align="center" alt="Git-logo" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
   
